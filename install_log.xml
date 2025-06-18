@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<InstalLog Project="Zero Humanity Cyberdecks" Build_date="6/18/2025 12:05:13 PM">
+  <Files>
+    <Directory Path="D:\Games\Cyberpunk 2077\r6">
+      <Directory Path="D:\Games\Cyberpunk 2077\r6\tweaks">
+        <Directory Path="D:\Games\Cyberpunk 2077\r6\tweaks\Zero Humanity Cyberdecks">
+          <file>D:\Games\Cyberpunk 2077\r6\tweaks\Zero Humanity Cyberdecks\Items.AdvancedArasakaShadowMKICommon.variants.yaml</file>
+          <file>D:\Games\Cyberpunk 2077\r6\tweaks\Zero Humanity Cyberdecks\Items.AdvancedArasakaShadowMKICommonPlus.variants.yaml</file>
+          <file>D:\Games\Cyberpunk 2077\r6\tweaks\Zero Humanity Cyberdecks\Items.AdvancedArasakaShadowMKIIIRare.variants.yaml</file>
+          <file>D:\Games\Cyberpunk 2077\r6\tweaks\Zero Humanity Cyberdecks\Items.AdvancedArasakaShadowMKIIIRarePlus.variants.yaml</file>
+          <file>D:\Games\Cyberpunk 2077\r6\tweaks\Zero Humanity Cyberdecks\Items.AdvancedArasakaShadowMKIIUncommon.variants.yaml</file>
+          <file>D:\Games\Cyberpunk 2077\r6\tweaks\Zero Humanity Cyberdecks\Items.AdvancedArasakaShadowMKIIUncommonPlus.variants.yaml</file>
+          <file>D:\Games\Cyberpunk 2077\r6\tweaks\Zero Humanity Cyberdecks\Items.AdvancedArasakaShadowMKIVEpic.variants.yaml</file>
+          <file>D:\Games\Cyberpunk 2077\r6\tweaks\Zero Humanity Cyberdecks\Items.AdvancedArasakaShadowMKIVEpicPlus.variants.yaml</file>
+          <file>D:\Games\Cyberpunk 2077\r6\tweaks\Zero Humanity Cyberdecks\Items.AdvancedArasakaShadowMKVLegendary.variants.yaml</file>
+          <file>D:\Games\Cyberpunk 2077\r6\tweaks\Zero Humanity Cyberdecks\Items.AdvancedArasakaShadowMKVLegendaryPlus.variants.yaml</file>
+          <file>D:\Games\Cyberpunk 2077\r6\tweaks\Zero Humanity Cyberdecks\Items.AdvancedArasakaShadowMKVLegendaryPlusPlus.variants.yaml</file>
+        </Directory>
+      </Directory>
+    </Directory>
+  </Files>
+</InstalLog>

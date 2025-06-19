@@ -1,0 +1,168 @@
+# Search by Brand name you're looking for, for whatever reason.
+# Arasaka/Seacho
+Items.AdvancedArasakaShadowMKICommon.variants:
+  - Variants.Humanity0Cost
+
+Items.AdvancedArasakaShadowMKICommonPlus.variants:
+  - Variants.Humanity0Cost
+
+Items.AdvancedArasakaShadowMKIIUncommon.variants:
+  - Variants.Humanity0Cost
+
+Items.AdvancedArasakaShadowMKIIUncommonPlus.variants:
+  - Variants.Humanity0Cost
+
+Items.AdvancedArasakaShadowMKIIIRare.variants:
+  - Variants.Humanity0Cost
+
+Items.AdvancedArasakaShadowMKIIIRarePlus.variants:
+  - Variants.Humanity0Cost
+
+Items.AdvancedArasakaShadowMKIVEpic.variants:
+  - Variants.Humanity0Cost
+
+Items.AdvancedArasakaShadowMKIVEpicPlus.variants:
+  - Variants.Humanity0Cost
+
+Items.AdvancedArasakaShadowMKVLegendary.variants:
+  - Variants.Humanity0Cost
+
+Items.AdvancedArasakaShadowMKVLegendaryPlus.variants:
+  - Variants.Humanity0Cost
+
+Items.AdvancedArasakaShadowMKVLegendaryPlusPlus.variants:
+  - Variants.Humanity0Cost
+
+# Biotech/Biodyne
+Items.AdvancedBiotechSigmaMKICommon.variants:
+  - Variants.Humanity0Cost
+
+Items.AdvancedBiotechSigmaMKICommonPlus.variants:
+  - Variants.Humanity0Cost
+
+Items.AdvancedBiotechSigmaMKIIUncommon.variants:
+  - Variants.Humanity0Cost
+
+Items.AdvancedBiotechSigmaMKIIUncommonPlus.variants:
+  - Variants.Humanity0Cost
+
+Items.AdvancedBiotechSigmaMKIIIRare.variants:
+  - Variants.Humanity0Cost
+
+Items.AdvancedBiotechSigmaMKIIIRarePlus.variants:
+  - Variants.Humanity0Cost
+
+Items.AdvancedBiotechSigmaMKIVEpic.variants:
+  - Variants.Humanity0Cost
+
+Items.AdvancedBiotechSigmaMKIVEpicPlus.variants:
+  - Variants.Humanity0Cost
+
+Items.AdvancedBiotechSigmaMKVLegendary.variants:
+  - Variants.Humanity0Cost
+
+Items.AdvancedBiotechSigmaMKVLegendaryPlus.variants:
+  - Variants.Humanity0Cost
+
+Items.AdvancedBiotechSigmaMKVLegendaryPlusPlus.variants:
+  - Variants.Humanity0Cost
+
+# Militech/Fuyutsuki
+Items.AdvancedMilitechParalineMKICommon.variants:
+  - Variants.Humanity0Cost
+
+Items.AdvancedMilitechParalineMKICommonPlus.variants:
+  - Variants.Humanity0Cost
+
+Items.AdvancedMilitechParalineMKIIUncommon.variants:
+  - Variants.Humanity0Cost
+
+Items.AdvancedMilitechParalineMKIIUncommonPlus.variants:
+  - Variants.Humanity0Cost
+
+Items.AdvancedMilitechParalineMKIIIRare.variants:
+  - Variants.Humanity0Cost
+
+Items.AdvancedMilitechParalineMKIIIRarePlus.variants:
+  - Variants.Humanity0Cost
+
+Items.AdvancedMilitechParalineMKIVEpic.variants:
+  - Variants.Humanity0Cost
+
+Items.AdvancedMilitechParalineMKIVEpicPlus.variants:
+  - Variants.Humanity0Cost
+
+Items.AdvancedMilitechParalineMKVLegendary.variants:
+  - Variants.Humanity0Cost
+
+Items.AdvancedMilitechParalineMKVLegendaryPlus.variants:
+  - Variants.Humanity0Cost
+
+Items.AdvancedMilitechParalineMKVLegendaryPlusPlus.variants:
+  - Variants.Humanity0Cost
+
+# Netwatch
+Items.AdvancedNetwatchNetdriverMKLegendary.variants:
+  - Variants.Humanity0Cost
+
+Items.AdvancedNetwatchNetdriverMKLegendaryPlus.variants:
+  - Variants.Humanity0Cost
+
+Items.AdvancedNetwatchNetdriverMKLegendaryPlusPlus.variants:
+  - Variants.Humanity0Cost
+
+# Raven
+Items.AdvancedRavenMicrocyberMKIRare.variants:
+  - Variants.Humanity0Cost
+
+Items.AdvancedRavenMicrocyberMKIRarePlus.variants:
+  - Variants.Humanity0Cost
+
+Items.AdvancedRavenMicrocyberMKIIEpic.variants:
+  - Variants.Humanity0Cost
+
+Items.AdvancedRavenMicrocyberMKIIEpicPlus.variants:
+  - Variants.Humanity0Cost
+
+Items.AdvancedRavenMicrocyberMKIIILegendary.variants:
+  - Variants.Humanity0Cost
+
+Items.AdvancedRavenMicrocyberMKIIILegendaryPlus.variants:
+  - Variants.Humanity0Cost
+
+Items.AdvancedRavenMicrocyberMKIIILegendaryPlusPlus.variants:
+  - Variants.Humanity0Cost
+
+# Tetratronic/Stephenson
+Items.AdvancedTetratronicRipplerMKICommon.variants:
+  - Variants.Humanity0Cost
+
+Items.AdvancedTetratronicRipplerMKICommonPlus.variants:
+  - Variants.Humanity0Cost
+
+Items.AdvancedTetratronicRipplerMKIIUncommon.variants:
+  - Variants.Humanity0Cost
+
+Items.AdvancedTetratronicRipplerMKIIUncommonPlus.variants:
+  - Variants.Humanity0Cost
+
+Items.AdvancedTetratronicRipplerMKIIIRare.variants:
+  - Variants.Humanity0Cost
+
+Items.AdvancedTetratronicRipplerMKIIIRarePlus.variants:
+  - Variants.Humanity0Cost
+
+Items.AdvancedTetratronicRipplerMKIVEpic.variants:
+  - Variants.Humanity0Cost
+
+Items.AdvancedTetratronicRipplerMKIVEpicPlus.variants:
+  - Variants.Humanity0Cost
+
+Items.AdvancedTetratronicRipplerMKVLegendary.variants:
+  - Variants.Humanity0Cost
+
+Items.AdvancedTetratronicRipplerMKVLegendaryPlus.variants:
+  - Variants.Humanity0Cost
+
+Items.AdvancedTetratronicRipplerMKVLegendaryPlusPlus.variants:
+  - Variants.Humanity0Cost
